@@ -1018,12 +1018,12 @@
         "description": "$input-border-focus"
       },
       "input-border-disabled": {
-        "value": "{base.grey-medium}",
+        "value": "{base.grey-light}",
         "type": "color",
         "description": "$input-border-disabled"
       },
       "input-text-disabled": {
-        "value": "{base.grey-medium}",
+        "value": "{base.grey-light}",
         "type": "color",
         "description": "$input-text-disabled"
       }
