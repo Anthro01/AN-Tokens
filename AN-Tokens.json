@@ -1272,7 +1272,7 @@
     },
     "facet": {
       "facet-border": {
-        "value": "$base.grey-medium",
+        "value": "$base.ivory",
         "type": "color",
         "description": "$facet-border"
       },
@@ -1282,7 +1282,7 @@
         "description": "$facet-border-hover"
       },
       "facet-border-selected": {
-        "value": "$base.grey-light",
+        "value": "$base.taupe-light",
         "type": "color",
         "description": "$facet-border-selected"
       },
@@ -1302,12 +1302,12 @@
         "description": "$facet-background-hover"
       },
       "facet-background-selected": {
-        "value": "$base.grey-light",
+        "value": "$base.taupe-light",
         "type": "color",
         "description": "$facet-background-selected"
       },
       "facet-background-selected-hover": {
-        "value": "$base.grey-light",
+        "value": "$base.taupe-light",
         "type": "color",
         "description": "$facet-background-selected-hover"
       },
