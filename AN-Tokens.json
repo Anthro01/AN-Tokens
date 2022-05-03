@@ -578,7 +578,7 @@
           "description": "$link-highlight"
         },
         "link-highlight-hover": {
-          "value": "{base.red-dark}",
+          "value": "{base.red}",
           "type": "color",
           "description": "$link-highlight-hover"
         }
