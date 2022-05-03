@@ -1371,12 +1371,12 @@
     },
     "table": {
       "table-head-background": {
-        "value": "$base.grey-light",
+        "value": "$base.taupe-light",
         "type": "color",
         "description": "$table-head-background"
       },
       "table-background-even": {
-        "value": "$base.grey-light",
+        "value": "$base.taupe-light",
         "type": "color",
         "description": "$table-background-even"
       },
@@ -1386,7 +1386,7 @@
         "description": "$table-background-odd"
       },
       "table-border": {
-        "value": "$base.grey-medium",
+        "value": "$base.taupe",
         "type": "color",
         "description": "$table-border"
       }
