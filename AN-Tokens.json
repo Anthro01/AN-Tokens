@@ -1203,7 +1203,7 @@
         "description": "$tab-text-selected"
       },
       "tab-highlight-selected": {
-        "value": "$base.blue",
+        "value": "$base.grey-dark",
         "type": "color",
         "description": "$tab-highlight-selected"
       },
@@ -1213,7 +1213,7 @@
         "description": "$tab-text-default"
       },
       "tab-highlight-default": {
-        "value": "$base.grey-medium",
+        "value": "$base.grey-light",
         "type": "color",
         "description": "$tab-highlight-default"
       },
@@ -1223,7 +1223,7 @@
         "description": "$tab-text-hover"
       },
       "tab-highlight-hover": {
-        "value": "$base.grey-medium",
+        "value": "$base.blue",
         "type": "color",
         "description": "$tab-highlight-hover"
       },
