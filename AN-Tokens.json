@@ -1072,17 +1072,17 @@
         "description": "$control-selected"
       },
       "control-disabled": {
-        "value": "$base.grey-medium",
+        "value": "$base.grey-light",
         "type": "color",
         "description": "$control-disabled"
       },
       "control-contrast": {
-        "value": "$base.grey-dark",
+        "value": "$base.white",
         "type": "color",
         "description": "$control-contrast"
       },
       "control-hover-contrast": {
-        "value": "$base.blue",
+        "value": "$base.taupe",
         "type": "color",
         "description": "$control-hover-contrast"
       }
