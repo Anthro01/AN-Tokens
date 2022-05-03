@@ -1240,22 +1240,22 @@
     },
     "pill": {
       "content-pill-border": {
-        "value": "$base.grey-medium",
+        "value": "$base.taupe-light",
         "type": "color",
         "description": "$content-pill-border"
       },
       "content-pill-border-hover": {
-        "value": "$base.grey-dark",
+        "value": "$base.taupe-light",
         "type": "color",
         "description": "$content-pill-border-hover"
       },
       "content-pill-background": {
-        "value": "$site-background.site-background",
+        "value": "$base.taupe-light",
         "type": "color",
         "description": "$content-pill-background"
       },
       "content-pill-background-hover": {
-        "value": "$base.grey-light",
+        "value": "$base.taupe-light",
         "type": "color",
         "description": "$content-pill-background-hover"
       },
@@ -1265,7 +1265,7 @@
         "description": "$content-pill-icon"
       },
       "content-pill-icon-hover": {
-        "value": "$base.grey-dark",
+        "value": "$base.blue",
         "type": "color",
         "description": "$content-pill-icon-hover"
       }
