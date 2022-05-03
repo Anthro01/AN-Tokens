@@ -79,17 +79,17 @@
     },
     "site-background": {
       "site-background": {
-        "value": "{base.white}",
+        "value": "{base.ivory}",
         "type": "color",
         "description": "$site-background"
       },
       "site-background-secondary": {
-        "value": "{base.grey-light}",
+        "value": "{base.taupe-light}",
         "type": "color",
         "description": "$site-background-secondary"
       },
       "site-background-tertiary": {
-        "value": "{base.grey-medium}",
+        "value": "{base.blue-light}",
         "type": "color",
         "description": "$site-background-tertiary"
       },
@@ -99,32 +99,32 @@
         "description": "$site-background-skeleton"
       },
       "site-background-navigation-heading": {
-        "value": "{base.grey-dark}",
+        "value": "{base.taupe-light}",
         "type": "color",
         "description": "$site-background-navigation-heading"
       },
       "site-background-header": {
-        "value": "{base.white}",
+        "value": "{base.ivory}",
         "type": "color",
         "description": "$site-background-header"
       },
       "site-background-navigation": {
-        "value": "{base.grey-light}",
+        "value": "{base.taupe-light}",
         "type": "color",
         "description": "$site-background-navigation"
       },
       "utility-bar-background": {
-        "value": "{base.grey-light}",
+        "value": "{base.ivory}",
         "type": "color",
         "description": "$utility-bar-background"
       },
       "count-badge-background": {
-        "value": "{base.grey-dark}",
+        "value": "{base.blue}",
         "type": "color",
         "description": "$count-badge-background"
       },
       "tooltip-background": {
-        "value": "{base.grey-dark}",
+        "value": "{base.blue-grey}",
         "type": "color",
         "description": "$tooltip-background"
       },
@@ -139,12 +139,12 @@
         "description": "$navigation-menu-background"
       },
       "membership-box-background": {
-        "value": "#faf8fa",
+        "value": "{base.taupe-light}",
         "type": "color",
         "description": "$membership-box-background"
       },
       "super-nav-background": {
-        "value": "#ffffff",
+        "value": "{base.ivory}",
         "type": "color",
         "description": "super-nav-background"
       },
@@ -160,7 +160,7 @@
           "description": "$transition-overlay"
         },
         "navigation-overlay": {
-          "value": "rgba({base.grey-dark}, 0.2)",
+          "value": "rgba({base.blue-grey}, 0.7)",
           "type": "color",
           "description": "$navigation-overlay"
         },
@@ -182,7 +182,7 @@
           "description": "$dropdown-action-background"
         },
         "dropdown-action-background-hover": {
-          "value": "$base.grey-light",
+          "value": "$base.taupe-light",
           "type": "color",
           "description": "$dropdown-action-background-hover"
         }
@@ -200,22 +200,22 @@
     },
     "border": {
       "border-default": {
-        "value": "$base.grey-medium",
+        "value": "$base.taupe",
         "type": "color",
         "description": "$border-default"
       },
       "separator": {
-        "value": "$base.grey-medium",
+        "value": "$base.grey-light",
         "type": "color",
         "description": "$separator"
       },
       "border-secondary": {
-        "value": "$base.grey-medium",
+        "value": "$base.taupe",
         "type": "color",
         "description": "$border-secondary"
       },
       "utility-bar-border": {
-        "value": "$base.grey-medium",
+        "value": "$base.taupe",
         "type": "color",
         "description": "$utility-bar-border"
       },
@@ -230,19 +230,19 @@
         "description": "$brand-navigation-border"
       },
       "border-heading": {
-        "value": "$base.grey-medium",
+        "value": "$base.taupe",
         "type": "color",
         "description": "$border-heading"
       },
       "super-nav-border": {
-        "value": "$base.grey-medium",
+        "value": "$base.taupe",
         "type": "color",
         "description": "$super-nav-border"
       }
     },
     "text": {
       "text-light": {
-        "value": "{base.grey-light}",
+        "value": "{base.white}",
         "type": "color",
         "description": "$text-light"
       },
@@ -257,7 +257,7 @@
         "description": "$text-dark"
       },
       "price-original": {
-        "value": "{base.grey}",
+        "value": "{base.grey-dark}",
         "type": "color",
         "description": "$price-original"
       },
@@ -292,7 +292,7 @@
         "description": "$affirmative"
       },
       "informational": {
-        "value": "{base.grey-dark}",
+        "value": "{base.grey}",
         "type": "color",
         "description": "$informational"
       },
@@ -302,7 +302,7 @@
         "description": "$badge"
       },
       "disabled": {
-        "value": "{base.grey-medium}",
+        "value": "{base.grey-light}",
         "type": "color",
         "description": "$disabled"
       },
