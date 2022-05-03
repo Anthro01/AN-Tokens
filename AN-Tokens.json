@@ -1334,37 +1334,37 @@
     },
     "cell": {
       "cell-border": {
-        "value": "$base.grey-medium",
+        "value": "$base.taupe",
         "type": "color",
         "description": "$cell-border"
       },
       "cell-border-tertiary": {
-        "value": "$base.grey-medium",
+        "value": "$base.taupe",
         "type": "color",
         "description": "$cell-border-tertiary"
       },
       "cell-primary-background": {
-        "value": "$base.white",
+        "value": "$base.ivory",
         "type": "color",
         "description": "$cell-primary-background"
       },
       "cell-secondary-background": {
-        "value": "$base.grey-light",
+        "value": "$base.taupe-light",
         "type": "color",
         "description": "$cell-secondary-background"
       },
       "cell-tertiary-background": {
-        "value": "$base.grey-light",
+        "value": "$base.taupe-light",
         "type": "color",
         "description": "$cell-tertiary-background"
       },
       "cell-login-header-background": {
-        "value": "$base.grey-medium",
+        "value": "$base.taupe-light",
         "type": "color",
         "description": "$cell-login-header-background"
       },
       "cell-pushback-header-background": {
-        "value": "$base.white",
+        "value": "$base.ivory",
         "type": "color",
         "description": "$cell-pushback-header-background"
       }
