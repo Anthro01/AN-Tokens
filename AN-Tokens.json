@@ -1455,7 +1455,7 @@
     },
     "focus": {
       "focus-ring": {
-        "value": "rgb(59, 153, 252)",
+        "value": "$base.blue",
         "type": "color"
       }
     },
