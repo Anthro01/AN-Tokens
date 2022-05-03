@@ -1089,12 +1089,12 @@
     },
     "radio": {
       "radio-styled-background": {
-        "value": "$site-background.site-background",
+        "value": "$base.taupe-light",
         "type": "color",
         "description": "$radio-styled-background"
       },
       "radio-styled-border": {
-        "value": "$base.grey-dark",
+        "value": "$base.taupe-light",
         "type": "color",
         "description": "$radio-styled-border"
       },
@@ -1104,7 +1104,7 @@
         "description": "$radio-styled-text"
       },
       "radio-styled-background-hover": {
-        "value": "$site-background.site-background",
+        "value": "$base.taupe-light",
         "type": "color",
         "description": "$radio-styled-background-hover"
       },
@@ -1119,37 +1119,37 @@
         "description": "$radio-styled-text-hover"
       },
       "radio-styled-background-selected": {
-        "value": "$base.blue",
+        "value": "$base.taupe-light",
         "type": "color",
         "description": "$radio-styled-background-selected"
       },
       "radio-styled-border-selected": {
-        "value": "$base.blue",
+        "value": "$base.grey-dark",
         "type": "color",
         "description": "$radio-styled-border-selected"
       },
       "radio-styled-text-selected": {
-        "value": "$base.white",
+        "value": "$base.grey-dark",
         "type": "color",
         "description": "$radio-styled-text-selected"
       },
       "radio-styled-background-disabled": {
-        "value": "$site-background.site-background",
+        "value": "$base.taupe-light",
         "type": "color",
         "description": "$radio-styled-background-disabled"
       },
       "radio-styled-border-disabled": {
-        "value": "$base.grey-medium",
+        "value": "$base.taupe-light",
         "type": "color",
         "description": "$radio-styled-border-disabled"
       },
       "radio-styled-text-disabled": {
-        "value": "$base.grey-medium",
+        "value": "$base.grey-light",
         "type": "color",
         "description": "$radio-styled-text-disabled"
       },
       "radio-styled-background-disabled-selected": {
-        "value": "$site-background.site-background",
+        "value": "$base.taupe-light",
         "type": "color",
         "description": "$radio-styled-background-disabled-selected"
       },
@@ -1159,17 +1159,17 @@
         "description": "$radio-styled-border-disabled-selected"
       },
       "radio-styled-text-disabled-selected": {
-        "value": "$base.grey-medium",
+        "value": "$base.grey-light",
         "type": "color",
         "description": "$radio-styled-text-disabled-selected"
       },
       "radio-styled-slash": {
-        "value": "$base.grey-medium",
+        "value": "$base.grey-light",
         "type": "color",
         "description": "$radio-styled-slash"
       },
       "radio-styled-slash-hover": {
-        "value": "$base.blue",
+        "value": "$base.grey-light",
         "type": "color",
         "description": "$radio-styled-slash-hover"
       },
@@ -1191,7 +1191,7 @@
         "description": "$swatch-border-hover"
       },
       "swatch-border-selected": {
-        "value": "$base.blue",
+        "value": "$base.grey-dark",
         "type": "color",
         "description": "$swatch-border-selected"
       }
