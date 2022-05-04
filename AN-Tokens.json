@@ -993,12 +993,12 @@
     },
     "form": {
       "input-border": {
-        "value": "{base.grey-dark}",
+        "value": "{base.grey-medium}",
         "type": "color",
         "description": "$input-border"
       },
       "input-background": {
-        "value": "{base.white}",
+        "value": "{base.ivory}",
         "type": "color",
         "description": "$input-background"
       },
@@ -1008,7 +1008,7 @@
         "description": "$input-text-placeholder"
       },
       "input-text": {
-        "value": "{base.grey-dark}",
+        "value": "{base.grey}",
         "type": "color",
         "description": "$input-text"
       },
