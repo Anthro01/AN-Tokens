@@ -799,12 +799,12 @@
           "description": "$button-secondary-text"
         },
         "button-secondary-background-hover": {
-          "value": "{base.blue}",
+          "value": "{base.blue-grey}",
           "type": "color",
           "description": "$button-secondary-background-hover"
         },
         "button-secondary-border-hover": {
-          "value": "{base.blue}",
+          "value": "{base.blue-grey}",
           "type": "color",
           "description": "$button-secondary-border-hover"
         },
@@ -819,22 +819,22 @@
           "description": "$button-secondary-background-disabled"
         },
         "button-secondary-border-disabled": {
-          "value": "{base.grey-medium}",
+          "value": "{base.grey-light}",
           "type": "color",
           "description": "$button-secondary-border-disabled"
         },
         "button-secondary-text-disabled": {
-          "value": "{base.grey-medium}",
+          "value": "{base.grey-light}",
           "type": "color",
           "description": "$button-secondary-text-disabled"
         },
         "button-secondary-background-confirmation": {
-          "value": "{base.blue}",
+          "value": "{base.blue-grey}",
           "type": "color",
           "description": "$button-secondary-background-confirmation"
         },
         "button-secondary-border-confirmation": {
-          "value": "{base.blue}",
+          "value": "{base.blue-grey}",
           "type": "color",
           "description": "$button-secondary-border-confirmation"
         },
