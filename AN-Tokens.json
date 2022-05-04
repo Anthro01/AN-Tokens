@@ -717,12 +717,12 @@
       },
       "button-primary": {
         "button-primary-background": {
-          "value": "{base.blue}",
+          "value": "{base.blue-grey}",
           "type": "color",
           "description": "$button-primary-background"
         },
         "button-primary-border": {
-          "value": "{base.blue}",
+          "value": "{base.blue-grey}",
           "type": "color",
           "description": "$button-primary-border"
         },
@@ -737,22 +737,22 @@
           "description": "$button-primary-background-hover"
         },
         "button-primary-border-hover": {
-          "value": "{base.blue}",
+          "value": "{base.blue-grey}",
           "type": "color",
           "description": "$button-primary-border-hover"
         },
         "button-primary-text-hover": {
-          "value": "{base.blue}",
+          "value": "{base.blue-grey}",
           "type": "color",
           "description": "$button-primary-text-hover"
         },
         "button-primary-background-disabled": {
-          "value": "{base.grey-medium}",
+          "value": "{base.grey-light}",
           "type": "color",
           "description": "$button-primary-background-disabled"
         },
         "button-primary-border-disabled": {
-          "value": "{base.grey-medium}",
+          "value": "{base.grey-light}",
           "type": "color",
           "description": "$button-primary-border-disabled"
         },
@@ -767,17 +767,17 @@
           "description": "$button-primary-background-confirmation"
         },
         "button-primary-border-confirmation": {
-          "value": "{base.blue}",
+          "value": "{base.blue-grey}",
           "type": "color",
           "description": "$button-primary-border-confirmation"
         },
         "button-primary-text-confirmation": {
-          "value": "{base.blue}",
+          "value": "{base.blue-grey}",
           "type": "color",
           "description": "$button-primary-text-confirmation"
         },
         "button-primary-loader-confirmation": {
-          "value": "{base.blue}",
+          "value": "{base.blue-grey}",
           "type": "color",
           "description": "$button-primary-loader-confirmation"
         }
@@ -789,12 +789,12 @@
           "description": "$button-secondary-background"
         },
         "button-secondary-border": {
-          "value": "{base.blue}",
+          "value": "{base.blue-grey}",
           "type": "color",
           "description": "$button-secondary-border"
         },
         "button-secondary-text": {
-          "value": "{base.blue}",
+          "value": "{base.blue-grey}",
           "type": "color",
           "description": "$button-secondary-text"
         },
