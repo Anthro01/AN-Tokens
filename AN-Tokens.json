@@ -1030,17 +1030,17 @@
     },
     "icon": {
       "review-star-filled": {
-        "value": "$base.grey-dark",
+        "value": "$base.yellow",
         "type": "color",
         "description": "$review-star-filled"
       },
       "review-star-empty": {
-        "value": "$base.grey-medium",
+        "value": "$base.grey-light",
         "type": "color",
         "description": "$review-star-empty"
       },
       "icon": {
-        "value": "$base.grey-dark",
+        "value": "$base.grey-medium",
         "type": "color",
         "description": "$icon"
       },
@@ -1050,7 +1050,7 @@
         "description": "$loading-icon-default"
       },
       "loading-icon-active": {
-        "value": "$base.grey-dark",
+        "value": "$base.blue",
         "type": "color",
         "description": "$loading-icon-active"
       }
