@@ -923,17 +923,17 @@
           "description": "$button-supplemental-border"
         },
         "button-supplemental-border-hover": {
-          "value": "{base.grey-dark}",
+          "value": "{base.blue}",
           "type": "color",
           "description": "$button-supplemental-border-hover"
         },
         "button-supplemental-border-focus": {
-          "value": "{base.grey-dark}",
+          "value": "{base.blue}",
           "type": "color",
           "description": "$button-supplemental-border-focus"
         },
         "button-supplemental-border-disabled": {
-          "value": "{base.grey-medium}",
+          "value": "{base.grey-light}",
           "type": "color",
           "description": "$button-supplemental-border-disabled"
         },
@@ -958,7 +958,7 @@
           "description": "$button-supplemental-background-disabled"
         },
         "button-supplemental-text-disabled": {
-          "value": "{base.grey-medium}",
+          "value": "{text.disabled}",
           "type": "color",
           "description": "$button-supplemental-text-disabled"
         },
