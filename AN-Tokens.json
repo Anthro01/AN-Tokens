@@ -1735,31 +1735,31 @@
     "content": {
       "button-primary": {
         "button-content-primary-border": {
-          "value": "{base.white}",
+          "value": "{base.grey-dark}",
           "type": "color",
           "description": "$button-content-primary-border"
         },
         "button-content-primary-background": {
-          "value": "{base.white}",
+          "value": "{base.ivory}",
           "type": "color",
           "description": "$button-content-primary-background"
         }
       },
       "button-secondary": {
         "button-content-secondary-border": {
-          "value": "{base.grey-dark}",
+          "value": "{base.ivory}",
           "type": "color",
           "description": "$button-content-secondary-border"
         },
         "button-content-secondary-background": {
-          "value": "{base.white}",
+          "value": "{base.ivory}",
           "type": "color",
           "description": "$button-content-secondary-background"
         }
       },
       "button-tertiary": {
         "button-content-tertiary-background": {
-          "value": "{base.grey-dark}",
+          "value": "{base.ivory}",
           "type": "color",
           "description": "$button-content-tertiary-background"
         },
