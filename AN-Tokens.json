@@ -906,12 +906,12 @@
           "description": "$button-error-background-disabled"
         },
         "button-error-border-disabled": {
-          "value": "{base.grey-medium}",
+          "value": "$text.disabled",
           "type": "color",
           "description": "$button-error-border-disabled"
         },
         "button-error-text-disabled": {
-          "value": "{base.grey-medium}",
+          "value": "$text.disabled",
           "type": "color",
           "description": "$button-error-text-disabled"
         }
