@@ -967,28 +967,6 @@
           "type": "color",
           "description": "$button-supplemental-text"
         }
-      },
-      "button-misc": {
-        "button-icon-adjacent-background": {
-          "value": "{base.white}",
-          "type": "color",
-          "description": "$button-icon-adjacent-background"
-        },
-        "button-text": {
-          "value": "{base.blue}",
-          "type": "color",
-          "description": "$button-text"
-        },
-        "button-text-hover": {
-          "value": "{base.blue}",
-          "type": "color",
-          "description": "$button-text-hover"
-        },
-        "button-text-disabled": {
-          "value": "{base.grey-medium}",
-          "type": "color",
-          "description": "$button-text-disabled"
-        }
       }
     },
     "form": {
