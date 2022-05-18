@@ -1574,7 +1574,7 @@
       },
       "price": {
         "price-pdp": {
-          "value": "$global-spacing.gs-small-1",
+          "value": "$global-spacing.gs-medium",
           "type": "spacing"
         },
         "price-product": {
