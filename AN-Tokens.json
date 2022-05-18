@@ -1518,7 +1518,7 @@
           "type": "spacing"
         },
         "heading-section-compact": {
-          "value": "{global-spacing.gs-small-2}",
+          "value": "{global-spacing.gs-small-1}",
           "type": "spacing"
         },
         "heading-product-page": {
@@ -1526,11 +1526,11 @@
           "type": "spacing"
         },
         "heading-product": {
-          "value": "{global-spacing.gs-small-2}",
+          "value": "{global-spacing.none}",
           "type": "spacing"
         },
         "heading-navigation": {
-          "value": "$global-spacing.gs-small-1",
+          "value": "$global-spacing.gs-small",
           "type": "spacing"
         },
         "heading-navigation-supernav": {
@@ -1546,7 +1546,7 @@
           "type": "spacing"
         },
         "heading-utility-column": {
-          "value": "{global-spacing.gs-small-2}",
+          "value": "{global-spacing.none}",
           "type": "spacing"
         },
         "subheading-page": {
@@ -1558,7 +1558,7 @@
           "type": "spacing"
         },
         "subheading-section-compact": {
-          "value": "$global-spacing.gs-small-2",
+          "value": "$global-spacing.gs-small-1",
           "type": "spacing"
         },
         "heading-accordion": {
@@ -1796,5 +1796,6 @@
         }
       }
     }
-  }
+  },
+  "$themes": []
 }
