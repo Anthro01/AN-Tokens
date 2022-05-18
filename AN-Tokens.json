@@ -1568,7 +1568,7 @@
       },
       "body": {
         "text-key-value": {
-          "value": "$global-spacing.gs-small-1",
+          "value": "$global-spacing.gs-small-2",
           "type": "spacing"
         }
       },
