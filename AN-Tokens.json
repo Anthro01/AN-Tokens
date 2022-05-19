@@ -1534,7 +1534,7 @@
           "type": "spacing"
         },
         "heading-navigation-supernav": {
-          "value": "$global-spacing.gs-medium",
+          "value": "$global-spacing.gs-small",
           "type": "spacing"
         },
         "preheading-title": {
@@ -1633,27 +1633,27 @@
       },
       "content": {
         "text-content-large-1": {
-          "value": "$global-spacing.gs-large",
+          "value": "$global-spacing.gs-small-1",
           "type": "spacing"
         },
         "text-content-large-2": {
-          "value": "$global-spacing.gs-large",
+          "value": "$global-spacing.gs-small-1",
           "type": "spacing"
         },
         "text-content-large-3": {
-          "value": "$global-spacing.gs-large",
+          "value": "$global-spacing.gs-small-1",
           "type": "spacing"
         },
         "text-content-medium-1": {
-          "value": "$global-spacing.gs-medium",
+          "value": "$global-spacing.gs-small-1",
           "type": "spacing"
         },
         "text-content-medium-2": {
-          "value": "$global-spacing.gs-medium",
+          "value": "$global-spacing.gs-small-1",
           "type": "spacing"
         },
         "text-content-medium-3": {
-          "value": "$global-spacing.gs-medium",
+          "value": "$global-spacing.gs-small-1",
           "type": "spacing"
         },
         "text-content-small-1": {
@@ -1669,27 +1669,27 @@
           "type": "spacing"
         },
         "text-content-extra-small-1": {
-          "value": "$global-spacing.gs-small-1",
+          "value": "$global-spacing.gs-medium",
           "type": "spacing"
         },
         "text-content-extra-small-2": {
-          "value": "$global-spacing.gs-small-1",
+          "value": "$global-spacing.gs-medium",
           "type": "spacing"
         },
         "text-content-extra-small-3": {
-          "value": "$global-spacing.gs-small-1",
+          "value": "$global-spacing.gs-medium",
           "type": "spacing"
         },
         "text-content-large-1-mobile": {
-          "value": "$global-spacing.gs-large",
+          "value": "$global-spacing.gs-small-1",
           "type": "spacing"
         },
         "text-content-large-2-mobile": {
-          "value": "$global-spacing.gs-large",
+          "value": "$global-spacing.gs-small-1",
           "type": "spacing"
         },
         "text-content-large-3-mobile": {
-          "value": "$global-spacing.gs-large",
+          "value": "$global-spacing.gs-small-1",
           "type": "spacing"
         },
         "mapped": {
