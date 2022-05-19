@@ -1598,7 +1598,7 @@
           "type": "spacing"
         },
         "border-bottom-nested": {
-          "value": "$global-spacing.gs-large",
+          "value": "$global-spacing.gs-medium",
           "type": "spacing"
         },
         "border-top-nested": {
@@ -1615,7 +1615,7 @@
           "type": "spacing"
         },
         "border-left": {
-          "value": "$global-spacing.gs-large-1",
+          "value": "$global-spacing.gs-large",
           "type": "spacing"
         },
         "border-heading-padding": {
