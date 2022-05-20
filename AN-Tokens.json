@@ -1602,7 +1602,7 @@
           "type": "spacing"
         },
         "border-top-nested": {
-          "value": "$global-spacing.gs-medium",
+          "value": "$global-spacing.gs-small-1",
           "type": "spacing"
         },
         "border-heading": {
